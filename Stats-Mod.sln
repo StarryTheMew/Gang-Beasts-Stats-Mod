@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GangBeast-TestMod", "GangBeast-TestMod.csproj", "{363D5278-8C70-4424-BB15-99AD246FF00C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363D5278-8C70-4424-BB15-99AD246FF00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363D5278-8C70-4424-BB15-99AD246FF00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363D5278-8C70-4424-BB15-99AD246FF00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363D5278-8C70-4424-BB15-99AD246FF00C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5CCDF8-FD0D-4BBF-8EE6-F63FC41ACF57}
+	EndGlobalSection
+EndGlobal
